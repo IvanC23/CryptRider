@@ -14,7 +14,11 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\crusc\\Documents\\GitHub\\CryptRider\\CryptRider\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "C:\\Users\\crusc\\Documents\\GitHub\\CryptRider\\CryptRider\\.vscode\\compileCommands_Default.json",
+            "includePath": [
+                "${default}",
+                "C:/Unreal/UE_5.4/Engine/Source/Runtime/Core/Public"
+            ]
         }
     ],
     "version": 4

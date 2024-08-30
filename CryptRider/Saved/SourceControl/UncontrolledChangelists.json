@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/Dungeon.umap",
-				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset"
+				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/BP_CryptRiderGameMode.uasset",
+				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/BP_Torch_Dungeon.uasset",
+				"C:/Users/crusc/Documents/GitHub/CryptRider/CryptRider/Content/BP_FirstPerson.uasset"
 			]
 		}
 	]

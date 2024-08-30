@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeCryptRider_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xE99F5E52,
-				0xA19EF612,
+				0x6DEFAB94,
+				0xBD8E5E05,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_CryptRider.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_CryptRider.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CryptRider(Z_Construct_UPackage__Script_CryptRider, TEXT("/Script/CryptRider"), Z_Registration_Info_UPackage__Script_CryptRider, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xE99F5E52, 0xA19EF612));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CryptRider(Z_Construct_UPackage__Script_CryptRider, TEXT("/Script/CryptRider"), Z_Registration_Info_UPackage__Script_CryptRider, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x6DEFAB94, 0xBD8E5E05));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\source\\cryptrider\\cryptriderplayercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\intermediate\\build\\win64\\x64\\cryptridereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptrider\\definitions.cryptrider.h",
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\source\\cryptrider\\cryptriderplayercontroller.h",
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptrider\\uht\\cryptriderplayercontroller.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsystems.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputsubsysteminterface.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedplayerinput.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedplayerinput.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\playermappablekeyslot.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\playermappablekeyslot.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsysteminterface.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputsubsystems.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
