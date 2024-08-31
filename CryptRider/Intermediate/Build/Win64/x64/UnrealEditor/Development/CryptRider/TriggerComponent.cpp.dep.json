@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\source\\cryptrider\\triggercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\intermediate\\build\\win64\\x64\\cryptridereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptrider\\definitions.cryptrider.h",
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\source\\cryptrider\\triggercomponent.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\source\\cryptrider\\mover.h",
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptrider\\uht\\mover.generated.h",
+            "c:\\users\\crusc\\documents\\github\\cryptrider\\cryptrider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptrider\\uht\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
